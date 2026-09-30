@@ -371,7 +371,7 @@ const MENU = [
         descEn: "Chicken with peppers and cheese",
         price: 400000,
         img: "Turkey.jpeg",
-        tags: ["spicy"],
+        tags: [" "],
         extras: SAVORY_EXTRAS
       },
       {
