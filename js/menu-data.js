@@ -370,6 +370,7 @@ const MENU = [
         desc: "دجاج مع فليفلة ملونة وجبنة",
         descEn: "Chicken with peppers and cheese",
         price: 400000,
+        img: "Turkey.jpeg",
         tags: ["spicy"],
         extras: SAVORY_EXTRAS
       },
