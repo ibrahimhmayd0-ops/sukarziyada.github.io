@@ -360,6 +360,7 @@ const MENU = [
         desc: "دجاج متبل مع ثوم وبطاطا ومخلل",
         descEn: "Marinated chicken with garlic, fries and pickles",
         price: 350000,
+        img: "Tawouk.jpeg",
         tags: ["best"],
         extras: SAVORY_EXTRAS
       },
